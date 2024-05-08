@@ -5,5 +5,3 @@ SlackOpenAIDrumbeat.code-workspace
 .DS_Store
 .env
 .cursorignore
-.dockerignore
-Docker
